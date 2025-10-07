@@ -1,12 +1,1 @@
-#EXTM3U
-
-
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/rR9gMvk.png" group-title="Converge",GMA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-https://mpd2.x-whitehat-x80.workers.dev/proxy/gma2
-
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/rR9gMvk.png" group-title="Converge",GMA2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+ny test
