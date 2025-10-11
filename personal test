@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sample" tvg-name="Sample Channel" group-title="Test",Sample Channel
+#EXTINF:-1 tvg-id="sample" tvg-name="Sample Channel" group-title="Test",Vercel Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://linuxdata.vercel.app/api/proxy?url=http://143.44.136.74:9443/widevine//?deviceId=02:00:00:00:00:00
