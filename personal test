@@ -11,5 +11,11 @@ https://vercel-proxy-liard.vercel.app/api/proxy?url=http://136.239.159.18:6610/0
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-proxy-liard.vercel.app/proxy/143.44.136.74:9443/widevine//?deviceId=02:00:00:00:00:00
 https://vercel-proxy-liard.vercel.app/proxy/136.239.159.18:6610/001/2/ch00000090990000001093//manifest.mpd?\AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine&RateHigh=25600000
 
+
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="& Prive HD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/main/%26Prive.jpg" group-title="Movies",& Prive HD
+#EXTVLCOPT:http-referrer=https://www.tataplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+http://nayatv.ydns.eu:80/live/99BFB57C82171EE6A192B948981C70C9/3698.ts
+
   //====NOTHING FOLLOWS=======
   
