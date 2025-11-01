@@ -1,4 +1,7 @@
-
-
-  //====NOTHING FOLLOWS=======
-  
+#EXTM3U
+#EXTINF:-1,Converge Live
+#KODIPROP:inputstream=adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://converge-proxy.x-whitehat-x80.workers.dev/license
+https://converge-proxy.x-whitehat-x80.workers.dev/001/2/ch00000090990000001087/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
