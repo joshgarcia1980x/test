@@ -11,7 +11,7 @@ http://136.239.159.18:6610/001/2/ch00000090990000001093//manifest.mpd?\AuthInfo=
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine//?deviceId=02:00:00:00:00:00
 http://136.239.159.18:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=d85e93&JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="ch00000090990000001283" tvg-name="Sample Channel" group-title="Live TV",Sample Channel2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
