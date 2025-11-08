@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Converge Live
-#KODIPROP:inputstream=adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="ch00000090990000001283" tvg-name="Sample Channel" group-title="Live TV",Sample Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://converge-proxy.x-whitehat-x80.workers.dev/license
-https://converge-proxy.x-whitehat-x80.workers.dev/001/2/ch00000090990000001087/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine//?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001093//manifest.mpd?\AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine&RateHigh=25600000
