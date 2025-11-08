@@ -4,3 +4,21 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine//?deviceId=02:00:00:00:00:00
 http://136.239.159.18:6610/001/2/ch00000090990000001093//manifest.mpd?\AuthInfo=d85e93&virtualDomain=001.live_hls.zte.com&JITPMediaType=DASH&JITPDRMType=Widevine&RateHigh=25600000
+
+#EXTINF:-1 tvg-id="ch00000090990000001283" tvg-name="Sample Channel" group-title="Live TV",Sample Channel
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine//?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=d85e93&JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ch00000090990000001283" tvg-name="Sample Channel" group-title="Live TV",Sample Channel2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine//?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001286//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177589420250901142959001459&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/u3lXSDl.png" group-title="Converge",CinemaOne
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine//?deviceId=02:00:00:00:00:00
+http://136.239.159.18:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=d85e93&JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
