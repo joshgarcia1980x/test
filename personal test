@@ -1,7 +1,1 @@
-  #KODIPROP:inputstream.adaptive.license_type=clearkey
-	#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
-	#EXTVLCOPT:http-referrer=https://iontv.pages.dev
-	#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-	#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="KIDS",KIDS TV
-	https://iontv.mikuy30.dpdns.org/proxy/channel/gtv/manifest.mpd
-    
+ nothing to see here
